@@ -25,5 +25,5 @@ my Codewars kyu!
 ## Contact
 
 [![Telegram](https://img.shields.io/badge/Telegram-26A5E4?style=for-the-badge&logo=telegram&logoColor=white)](https://t.me/FXrar1)
-[![Kwork](https://img.shields.io/badge/Kwork-ff6b00?style=for-the-badge&logo=ko-fi&logoColor=white)](https://kwork.ru/seller)
+[![Kwork](https://img.shields.io/badge/Kwork-ff6b00?style=for-the-badge&logo=ko-fi&logoColor=white)](https://kwork.ru/user/fxrardev)
 [![Codewars](https://img.shields.io/badge/Codewars-B1361E?style=for-the-badge&logo=codewars&logoColor=white)](https://www.codewars.com/users/Fxrar)
